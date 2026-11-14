@@ -1,0 +1,12 @@
+data/ 以下の CSV：Creative Commons Attribution 4.0 International（CC BY 4.0）
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+出典の書き方：出典：介護施設相場.com（厚生労働省「介護サービス情報公表システム」等をもとに集計） https://kaigo-souba.com/data/
+
+元データ：厚生労働省「介護サービス情報公表システム」から抽出したオープンデータ（CC BY） https://www.mhlw.go.jp/stf/kaigo-kouhyou_opendata.html
+厚生労働省「第9期介護保険事業計画期間における介護保険の第1号保険料及びサービス見込み量等について」 https://www.mhlw.go.jp/stf/newpage_40211.html
+総務省「住民基本台帳に基づく人口、人口動態及び世帯数」 https://www.soumu.go.jp/main_sosiki/jichi_gyousei/daityo/jinkou_jinkoudoutai-setaisuu.html
+これらをもとに介護施設相場.comが集計・加工したもので、厚生労働省・総務省が作成したものではありません。
+
+The CSV files under data/ are licensed under CC BY 4.0.
+Attribution: kaigo-souba.com, based on MHLW and MIC open data. https://kaigo-souba.com/data/
